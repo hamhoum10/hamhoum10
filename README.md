@@ -1,3 +1,5 @@
+<br/><br/><br/><br/>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hamhoum10.hamhoum10" />
 
 <h1 align="center">
@@ -14,7 +16,7 @@
  
  🌱 I’m currently learning **UX/UI**
 
-💬 Ask me about **Node.js, React,Spring Boot or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React,Spring Boot or anything 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
