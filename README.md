@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 <img src='https://github.com/hamhoum10/hamhoum10/blob/output/github-contribution-grid-snake.gif'/>
-  <br/><br/><br/>
+
 </div>
 
 <hr/>
