@@ -48,7 +48,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-![snake gif](https://github.com/hamhoum10/hamhoum10/blob/output/github-contribution-grid-snake.gif)
+<img src='https://github.com/hamhoum10/hamhoum10/blob/output/github-contribution-grid-snake.gif'/>
   <br/><br/><br/>
 </div>
 
